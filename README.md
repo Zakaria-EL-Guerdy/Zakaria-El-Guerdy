@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Front End Developer
 -------------------
 
-Enthusiastic self-taught Front-End Developer on a rewarding journey into web development. Since the beginning of 2024, I've been diving deep into the fundamentals through FreeCodeCamp's "Responsive Web Design" course. This experience has ignited a passion for programming, and I'm eager to leverage these skills to contribute to meaningful projects. Feel free to contact me to collaborate!
+Enthusiastic self-taught Front-End Developer on a rewarding journey into web development. Since the beginning of 2024, I've been diving deep into the fundamentals through FreeCodeCamp's "Responsive Web Design" course. This experience has ignited a passion for programming, and I'm eager to leverage these skills to contribute to meaningful projects, I am continuously learning through courses and tutorials. I then practice what I've learned by working on real-world projects on websites like FrontEnd Mentor, ICodeThis, and other helpful resources. Feel free to contact me to collaborate!
 
 * 🌍  I'm based in Morocco
 * ✉️  You can contact me at [elguerdyzakaria@gmail.com](mailto:elguerdyzakaria@gmail.com)
