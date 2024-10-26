@@ -1,10 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Zakaria El Guerdy
 =========================================================================================================================================
 
-Front End Developer
+ Full Stack Developer
 -------------------
 
-Enthusiastic self-taught Front-End Developer on a rewarding journey into web development. Since the beginning of 2024, I've been diving deep into the fundamentals through FreeCodeCamp's "Responsive Web Design" course. This experience has ignited a passion for programming, and I'm eager to leverage these skills to contribute to meaningful projects, I am continuously learning through courses and tutorials. I then practice what I've learned by working on real-world projects on websites like FrontEnd Mentor, ICodeThis, and other helpful resources. Feel free to contact me to collaborate!
+I've recently started my coding adventure with The Odin Project, diving deep into HTML, CSS, JavaScript and Git. My goal is to build a strong foundation in these essential languages, laying the groundwork for a successful career in web development. I'm excited to learn, grow, and contribute to innovative projects in the future.
 
 * 🌍  I'm based in Morocco
 * ✉️  You can contact me at [elguerdyzakaria@gmail.com](mailto:elguerdyzakaria@gmail.com)
