@@ -8,7 +8,7 @@ I've recently started my coding adventure with The Odin Project, diving deep int
 
 * 🌍  I'm based in Morocco
 * ✉️  You can contact me at [elguerdyzakaria@gmail.com](mailto:elguerdyzakaria@gmail.com)
-* 🧠  I'm learning HTML, CSS
+* 🧠  I'm learning HTML, CSS, JavaScript, Git...
 * 🤝  I'm open to collaborating on web development projects
 * ⚡  I love creating visually appealing websites
 
